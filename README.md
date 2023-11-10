@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RayDudexD
-- 👀 I’m interested in sin tacks
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning batch.
 
 <!---
 RayDudexD/RayDudexD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
